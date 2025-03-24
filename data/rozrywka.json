@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "Kto zagrał główną rolę w filmie 'Titanic'?",
+		"questionAnswer": "Leonardo DiCaprio i Kate Winslet"
+	},
+	{
+		"questionId": 1,
+		"questionText": "Który zespół muzyczny wykonał piosenkę 'Bohemian Rhapsody'?",
+		"questionAnswer": "Queen"
+	},
+	{
+		"questionId": 2,
+		"questionText": "Jak nazywa się najdłużej emitowany polski serial telewizyjny?",
+		"questionAnswer": "Klan"
+	},
+	{
+		"questionId": 3,
+		"questionText": "Kto napisał serię książek o Harrym Potterze?",
+		"questionAnswer": "J.K. Rowling"
+	},
+	{
+		"questionId": 4,
+		"questionText": "Jaka jest nazwa pierwszego polskiego filmu nagrodzanego Oscarem?",
+		"questionAnswer": "'Ida' w reżyserii Pawła Pawlikowskiego"
+	}
+]

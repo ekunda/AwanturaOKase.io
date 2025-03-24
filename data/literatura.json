@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "Kto napisał 'Pana Tadeusza'?",
+		"questionAnswer": "Adam Mickiewicz"
+	},
+	{
+		"questionId": 1,
+		"questionText": "Jak nazywa się główny bohater 'Lalki' Bolesława Prusa?",
+		"questionAnswer": "Stanisław Wokulski"
+	},
+	{
+		"questionId": 2,
+		"questionText": "Który pisarz stworzył postać Sherlocka Holmesa?",
+		"questionAnswer": "Arthur Conan Doyle"
+	},
+	{
+		"questionId": 3,
+		"questionText": "Jak nazywa się najsłynniejsze dzieło Williama Szekspira?",
+		"questionAnswer": "Hamlet (lub 'Romeo i Julia')"
+	},
+	{
+		"questionId": 4,
+		"questionText": "Kto jest autorem 'Władcy Pierścieni'?",
+		"questionAnswer": "J.R.R. Tolkien"
+	}
+]

@@ -1,0 +1,52 @@
+[
+	{
+		"categoryId": 0,
+		"categoryName": "Historia",
+		"categorySrc": "historia"
+	},
+	{
+		"categoryId": 1,
+		"categoryName": "Geografia",
+		"categorySrc": "geografia"
+	},
+	{
+		"categoryId": 2,
+		"categoryName": "Nauka",
+		"categorySrc": "nauka"
+	},
+	{
+		"categoryId": 3,
+		"categoryName": "Sport",
+		"categorySrc": "sport"
+	},
+	{
+		"categoryId": 4,
+		"categoryName": "Rozrywka",
+		"categorySrc": "rozrywka"
+	},
+	{
+		"categoryId": 5,
+		"categoryName": "Sztuka",
+		"categorySrc": "sztuka"
+	},
+	{
+		"categoryId": 6,
+		"categoryName": "Technologia",
+		"categorySrc": "technologia"
+	},
+	{
+		"categoryId": 7,
+		"categoryName": "Literatura",
+		"categorySrc": "literatura"
+	},
+	{
+		"categoryId": 8,
+		"categoryName": "Muzyka",
+		"categorySrc": "muzyka"
+	},
+	{
+		"categoryId": 9,
+		"categoryName": "Kino",
+		"categorySrc": "kino"
+	}
+]

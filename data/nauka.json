@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "Jaki pierwiastek chemiczny ma symbol Fe?",
+		"questionAnswer": "Żelazo"
+	},
+	{
+		"questionId": 1,
+		"questionText": "Jak nazywa się siła przyciągająca ciała do Ziemi?",
+		"questionAnswer": "Siła grawitacji"
+	},
+	{
+		"questionId": 2,
+		"questionText": "Jak nazywa się najmniejsza jednostka życia?",
+		"questionAnswer": "Komórka"
+	},
+	{
+		"questionId": 3,
+		"questionText": "Kto sformułował teorię względności?",
+		"questionAnswer": "Albert Einstein"
+	},
+	{
+		"questionId": 4,
+		"questionText": "Jaki gaz jest najczęstszym składnikiem atmosfery ziemskiej?",
+		"questionAnswer": "Azot"
+	}
+]

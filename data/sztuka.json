@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "Kto namalował 'Mona Lisę'?",
+		"questionAnswer": "Leonardo da Vinci"
+	},
+	{
+		"questionId": 1,
+		"questionText": "W jakim stylu malował Vincent van Gogh?",
+		"questionAnswer": "Postimpresjonizm"
+	},
+	{
+		"questionId": 2,
+		"questionText": "Jak nazywa się najsłynniejsze dzieło Michała Anioła znajdujące się w Kaplicy Sykstyńskiej?",
+		"questionAnswer": "Sąd Ostateczny"
+	},
+	{
+		"questionId": 3,
+		"questionText": "Kto jest autorem rzeźby 'Myśliciel'?",
+		"questionAnswer": "Auguste Rodin"
+	},
+	{
+		"questionId": 4,
+		"questionText": "Jak nazywa się polski malarz znany z obrazów 'Dziwny ogród' i 'Szał uniesień'?",
+		"questionAnswer": "Jacek Malczewski"
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "Jaka jest najdłuższa rzeka świata?",
+		"questionAnswer": "Nil (choć niektóre źródła podają, że Amazonka)"
+	},
+	{
+		"questionId": 1,
+		"questionText": "Jaki jest najwyższy szczyt Europy?",
+		"questionAnswer": "Mont Blanc (4810 m n.p.m.)"
+	},
+	{
+		"questionId": 2,
+		"questionText": "Które państwo ma największą powierzchnię na świecie?",
+		"questionAnswer": "Rosja"
+	},
+	{
+		"questionId": 3,
+		"questionText": "Który ocean jest największy?",
+		"questionAnswer": "Ocean Spokojny (Pacyfik)"
+	},
+	{
+		"questionId": 4,
+		"questionText": "Gdzie znajduje się Wielki Kanion?",
+		"questionAnswer": "W Stanach Zjednoczonych, w stanie Arizona"
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "Kto jest autorem 'Ody do radości'?",
+		"questionAnswer": "Ludwig van Beethoven"
+	},
+	{
+		"questionId": 1,
+		"questionText": "Jak nazywa się najsłynniejszy zespół rockowy z Liverpoolu?",
+		"questionAnswer": "The Beatles"
+	},
+	{
+		"questionId": 2,
+		"questionText": "Kto wykonał piosenkę 'Thriller'?",
+		"questionAnswer": "Michael Jackson"
+	},
+	{
+		"questionId": 3,
+		"questionText": "Jak nazywa się polski kompozytor znany z 'Etiudy rewolucyjnej'?",
+		"questionAnswer": "Fryderyk Chopin"
+	},
+	{
+		"questionId": 4,
+		"questionText": "Która grupa muzyczna wykonała utwór 'Smells Like Teen Spirit'?",
+		"questionAnswer": "Nirvana"
+	}
+]

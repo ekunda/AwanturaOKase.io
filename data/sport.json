@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "W jakim kraju odbyły się pierwsze nowożytne igrzyska olimpijskie?",
+		"questionAnswer": "W Grecji (Ateny, 1896 rok)"
+	},
+	{
+		"questionId": 1,
+		"questionText": "Ile zawodników liczy drużyna piłki nożnej na boisku?",
+		"questionAnswer": "11 zawodników"
+	},
+	{
+		"questionId": 2,
+		"questionText": "Kto jest rekordzistą pod względem liczby zdobytych złotych medali olimpijskich?",
+		"questionAnswer": "Michael Phelps (23 złote medale)"
+	},
+	{
+		"questionId": 3,
+		"questionText": "W jakim sporcie używa się kijów i krążka?",
+		"questionAnswer": "W hokeju na lodzie"
+	},
+	{
+		"questionId": 4,
+		"questionText": "Jak nazywa się najważniejsze tenisowe zawody w Wielkiej Brytanii?",
+		"questionAnswer": "Wimbledon"
+	}
+]

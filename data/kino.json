@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "Kto wyreżyserował film 'Lista Schindlera'?",
+		"questionAnswer": "Steven Spielberg"
+	},
+	{
+		"questionId": 1,
+		"questionText": "Jak nazywa się najsłynniejsza seria filmów o przygodach Indiany Jonesa?",
+		"questionAnswer": "Poszukiwacze zaginionej Arki"
+	},
+	{
+		"questionId": 2,
+		"questionText": "Kto zagrał główną rolę w filmie 'Forrest Gump'?",
+		"questionAnswer": "Tom Hanks"
+	},
+	{
+		"questionId": 3,
+		"questionText": "Jak nazywa się pierwszy film wyprodukowany przez wytwórnię Disneya?",
+		"questionAnswer": "Królewna Śnieżka i siedmiu krasnoludków"
+	},
+	{
+		"questionId": 4,
+		"questionText": "Kto wyreżyserował 'Labirynt Fauna'?",
+		"questionAnswer": "Guillermo del Toro"
+	}
+]

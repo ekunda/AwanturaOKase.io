@@ -1,0 +1,27 @@
+[
+	{
+		"questionId": 0,
+		"questionText": "W którym roku zakończyła się II wojna światowa?",
+		"questionAnswer": "W 1945 roku"
+	},
+	{
+		"questionId": 1,
+		"questionText": "Kto był pierwszym królem Polski?",
+		"questionAnswer": "Bolesław Chrobry"
+	},
+	{
+		"questionId": 2,
+		"questionText": "W którym roku odbyła się bitwa pod Grunwaldem?",
+		"questionAnswer": "W 1410 roku"
+	},
+	{
+		"questionId": 3,
+		"questionText": "Kto dowodził wojskami polskimi podczas Bitwy Warszawskiej w 1920 roku?",
+		"questionAnswer": "Józef Piłsudski"
+	},
+	{
+		"questionId": 4,
+		"questionText": "W którym roku wybuchło Powstanie Warszawskie?",
+		"questionAnswer": "W 1944 roku"
+	}
+]
