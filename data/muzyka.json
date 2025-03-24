@@ -1,27 +1,52 @@
 [
 	{
 		"questionId": 0,
-		"questionText": "Kto jest autorem 'Ody do radości'?",
-		"questionAnswer": "Ludwig van Beethoven"
+		"questionText": "Kto jest najpopularniejszym artystą na Spotify w 2023 roku?",
+		"questionAnswer": "Taylor Swift"
 	},
 	{
 		"questionId": 1,
-		"questionText": "Jak nazywa się najsłynniejszy zespół rockowy z Liverpoolu?",
-		"questionAnswer": "The Beatles"
+		"questionText": "Która piosenkarka jest nazywana 'Królową Popu'?",
+		"questionAnswer": "Madonna"
 	},
 	{
 		"questionId": 2,
-		"questionText": "Kto wykonał piosenkę 'Thriller'?",
-		"questionAnswer": "Michael Jackson"
+		"questionText": "Jak nazywa się najsłynniejszy utwór BTS?",
+		"questionAnswer": "'Dynamite'"
 	},
 	{
 		"questionId": 3,
-		"questionText": "Jak nazywa się polski kompozytor znany z 'Etiudy rewolucyjnej'?",
-		"questionAnswer": "Fryderyk Chopin"
+		"questionText": "Kto wygrał Eurowizję w 2023 roku?",
+		"questionAnswer": "Loreen (Szwecja)"
 	},
 	{
 		"questionId": 4,
-		"questionText": "Która grupa muzyczna wykonała utwór 'Smells Like Teen Spirit'?",
-		"questionAnswer": "Nirvana"
+		"questionText": "Który polski raper jest najpopularniejszy wśród nastolatków?",
+		"questionAnswer": "Quebonafide lub Taco Hemingway"
+	},
+	{
+		"questionId": 5,
+		"questionText": "Kto jest autorem hitu 'Flowers' (2023)?",
+		"questionAnswer": "Miley Cyrus"
+	},
+	{
+		"questionId": 6,
+		"questionText": "Jaki zespół wykonuje piosenkę 'Take Me to Church'?",
+		"questionAnswer": "Hozier"
+	},
+	{
+		"questionId": 7,
+		"questionText": "Która piosenkarka nazywa siebie 'Queen of Rap'?",
+		"questionAnswer": "Nicki Minaj"
+	},
+	{
+		"questionId": 8,
+		"questionText": "Jak nazywa się wokalista zespołu Imagine Dragons?",
+		"questionAnswer": "Dan Reynolds"
+	},
+	{
+		"questionId": 9,
+		"questionText": "Który utwór Shakiry stał się viralem na TikTok w 2023?",
+		"questionAnswer": "'BZRP Music Sessions #53'"
 	}
 ]

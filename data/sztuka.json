@@ -1,27 +1,52 @@
 [
 	{
-		"questionId": 0,
-		"questionText": "Kto namalował 'Mona Lisę'?",
-		"questionAnswer": "Leonardo da Vinci"
+			"questionId": 0,
+			"questionText": "Kto jest autorem graffiti 'Balloon Girl'?",
+			"questionAnswer": "Banksy"
 	},
 	{
-		"questionId": 1,
-		"questionText": "W jakim stylu malował Vincent van Gogh?",
-		"questionAnswer": "Postimpresjonizm"
+			"questionId": 1,
+			"questionText": "Jak nazywa się styl sztuki tworzonej na komputerze?",
+			"questionAnswer": "Sztuka cyfrowa (digital art)"
 	},
 	{
-		"questionId": 2,
-		"questionText": "Jak nazywa się najsłynniejsze dzieło Michała Anioła znajdujące się w Kaplicy Sykstyńskiej?",
-		"questionAnswer": "Sąd Ostateczny"
+			"questionId": 2,
+			"questionText": "Kto projektuje najdroższe buty sportowe?",
+			"questionAnswer": "Virgil Abloh (Off-White x Nike)"
 	},
 	{
-		"questionId": 3,
-		"questionText": "Kto jest autorem rzeźby 'Myśliciel'?",
-		"questionAnswer": "Auguste Rodin"
+			"questionId": 3,
+			"questionText": "Jak nazywa się najsłynniejszy festiwal muzyczny na świecie?",
+			"questionAnswer": "Coachella"
 	},
 	{
-		"questionId": 4,
-		"questionText": "Jak nazywa się polski malarz znany z obrazów 'Dziwny ogród' i 'Szał uniesień'?",
-		"questionAnswer": "Jacek Malczewski"
+			"questionId": 4,
+			"questionText": "Kto jest autorem rzeźby 'Pomnik Małego Powstańca' w Warszawie?",
+			"questionAnswer": "Jerzy Jarnuszkiewicz"
+	},
+	{
+			"questionId": 5,
+			"questionText": "Który artysta maluje neonowe dzieła inspirowane Japonią?",
+			"questionAnswer": "Takashi Murakami"
+	},
+	{
+			"questionId": 6,
+			"questionText": "Co to jest NFT w sztuce?",
+			"questionAnswer": "Cyfrowe dzieło sztuki oparte na blockchainie"
+	},
+	{
+			"questionId": 7,
+			"questionText": "Kto namalował 'Krzyk'?",
+			"questionAnswer": "Edvard Munch"
+	},
+	{
+			"questionId": 8,
+			"questionText": "Jak nazywa się słynna polska malarka tworząca abstrakcje?",
+			"questionAnswer": "Tamara Łempicka"
+	},
+	{
+			"questionId": 9,
+			"questionText": "Które muzeum sztuki współczesnej jest najpopularniejsze w Nowym Jorku?",
+			"questionAnswer": "MoMA (Museum of Modern Art)"
 	}
 ]

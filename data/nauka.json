@@ -1,27 +1,52 @@
 [
 	{
 		"questionId": 0,
-		"questionText": "Jaki pierwiastek chemiczny ma symbol Fe?",
-		"questionAnswer": "Żelazo"
+		"questionText": "Ile wynosi prędkość światła?",
+		"questionAnswer": "299 792 458 m/s"
 	},
 	{
 		"questionId": 1,
-		"questionText": "Jak nazywa się siła przyciągająca ciała do Ziemi?",
-		"questionAnswer": "Siła grawitacji"
+		"questionText": "Jak nazywa się największa planeta Układu Słonecznego?",
+		"questionAnswer": "Jowisz"
 	},
 	{
 		"questionId": 2,
-		"questionText": "Jak nazywa się najmniejsza jednostka życia?",
-		"questionAnswer": "Komórka"
+		"questionText": "Co to jest AI (Artificial Intelligence)?",
+		"questionAnswer": "Sztuczna inteligencja"
 	},
 	{
 		"questionId": 3,
-		"questionText": "Kto sformułował teorię względności?",
-		"questionAnswer": "Albert Einstein"
+		"questionText": "Jak nazywa się pierwszy człowiek na Księżycu?",
+		"questionAnswer": "Neil Armstrong"
 	},
 	{
 		"questionId": 4,
-		"questionText": "Jaki gaz jest najczęstszym składnikiem atmosfery ziemskiej?",
-		"questionAnswer": "Azot"
+		"questionText": "Co mierzy się w dżulach?",
+		"questionAnswer": "Energię, pracę lub ciepło"
+	},
+	{
+		"questionId": 5,
+		"questionText": "Który pierwiastek ma symbol 'O'?",
+		"questionAnswer": "Tlen"
+	},
+	{
+		"questionId": 6,
+		"questionText": "Jak nazywa się najsłynniejszy fizyk teoretyczny żyjący obecnie?",
+		"questionAnswer": "Stephen Hawking (lub Michio Kaku)"
+	},
+	{
+		"questionId": 7,
+		"questionText": "Co to jest CRISPR?",
+		"questionAnswer": "Technologia edycji genów"
+	},
+	{
+		"questionId": 8,
+		"questionText": "Które zwierzę jest najinteligentniejsze po człowieku?",
+		"questionAnswer": "Szympans lub delfin"
+	},
+	{
+		"questionId": 9,
+		"questionText": "Jak nazywa się pierwsza kobieta, która zdobyła Nagrodę Nobla z fizyki?",
+		"questionAnswer": "Maria Skłodowska-Curie"
 	}
 ]

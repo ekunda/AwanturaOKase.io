@@ -1,27 +1,52 @@
 [
 	{
 		"questionId": 0,
-		"questionText": "Jaka jest najdłuższa rzeka świata?",
-		"questionAnswer": "Nil (choć niektóre źródła podają, że Amazonka)"
+		"questionText": "Które miasto jest stolicą Australii?",
+		"questionAnswer": "Canberra (nie mylić z Sydney!)"
 	},
 	{
 		"questionId": 1,
-		"questionText": "Jaki jest najwyższy szczyt Europy?",
-		"questionAnswer": "Mont Blanc (4810 m n.p.m.)"
+		"questionText": "Gdzie znajduje się największy park rozrywki Disneyland?",
+		"questionAnswer": "Orlando, Floryda, USA"
 	},
 	{
 		"questionId": 2,
-		"questionText": "Które państwo ma największą powierzchnię na świecie?",
-		"questionAnswer": "Rosja"
+		"questionText": "Które państwo jest najmniejsze na świecie?",
+		"questionAnswer": "Watykan"
 	},
 	{
 		"questionId": 3,
-		"questionText": "Który ocean jest największy?",
-		"questionAnswer": "Ocean Spokojny (Pacyfik)"
+		"questionText": "Gdzie można znaleźć najwięcej aktywnych wulkanów?",
+		"questionAnswer": "Indonezja"
 	},
 	{
 		"questionId": 4,
-		"questionText": "Gdzie znajduje się Wielki Kanion?",
-		"questionAnswer": "W Stanach Zjednoczonych, w stanie Arizona"
+		"questionText": "Które miasto jest najdroższe do życia na świecie?",
+		"questionAnswer": "Singapur lub Hong Kong (różne rankingi)"
+	},
+	{
+		"questionId": 5,
+		"questionText": "Gdzie znajduje się najwyższy budynek na świecie?",
+		"questionAnswer": "Dubaj (Burdż Chalifa)"
+	},
+	{
+		"questionId": 6,
+		"questionText": "Które państwo ma kształt buta?",
+		"questionAnswer": "Włochy"
+	},
+	{
+		"questionId": 7,
+		"questionText": "Jak nazywa się najdłuższa rzeka w Polsce?",
+		"questionAnswer": "Wisła"
+	},
+	{
+		"questionId": 8,
+		"questionText": "Gdzie leży Machu Picchu?",
+		"questionAnswer": "Peru"
+	},
+	{
+		"questionId": 9,
+		"questionText": "Które miasto nazywa się 'Wiecznym Miastem'?",
+		"questionAnswer": "Rzym"
 	}
 ]

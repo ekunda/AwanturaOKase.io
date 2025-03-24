@@ -1,27 +1,52 @@
 [
 	{
 		"questionId": 0,
-		"questionText": "W którym roku zakończyła się II wojna światowa?",
-		"questionAnswer": "W 1945 roku"
+		"questionText": "Kiedy wynaleziono Internet?",
+		"questionAnswer": "Lata 60. XX wieku (pierwotnie jako ARPANET)"
 	},
 	{
 		"questionId": 1,
-		"questionText": "Kto był pierwszym królem Polski?",
-		"questionAnswer": "Bolesław Chrobry"
+		"questionText": "Kto wynalazł telefon?",
+		"questionAnswer": "Alexander Graham Bell"
 	},
 	{
 		"questionId": 2,
-		"questionText": "W którym roku odbyła się bitwa pod Grunwaldem?",
-		"questionAnswer": "W 1410 roku"
+		"questionText": "Kiedy upadł Mur Berliński?",
+		"questionAnswer": "9 listopada 1989 roku"
 	},
 	{
 		"questionId": 3,
-		"questionText": "Kto dowodził wojskami polskimi podczas Bitwy Warszawskiej w 1920 roku?",
-		"questionAnswer": "Józef Piłsudski"
+		"questionText": "Kto była pierwszą kobietą w kosmosie?",
+		"questionAnswer": "Walentyna Tiereszkowa (1963)"
 	},
 	{
 		"questionId": 4,
-		"questionText": "W którym roku wybuchło Powstanie Warszawskie?",
-		"questionAnswer": "W 1944 roku"
+		"questionText": "Kiedy powstał pierwszy iPhone?",
+		"questionAnswer": "2007 rok"
+	},
+	{
+		"questionId": 5,
+		"questionText": "Kto założył Facebooka?",
+		"questionAnswer": "Mark Zuckerberg"
+	},
+	{
+		"questionId": 6,
+		"questionText": "W którym roku Polska wstąpiła do UE?",
+		"questionAnswer": "2004 rok"
+	},
+	{
+		"questionId": 7,
+		"questionText": "Kto był pierwszym prezydentem USA?",
+		"questionAnswer": "George Washington"
+	},
+	{
+		"questionId": 8,
+		"questionText": "Kiedy wynaleziono szczepionkę na COVID-19?",
+		"questionAnswer": "2020 rok"
+	},
+	{
+		"questionId": 9,
+		"questionText": "Kto odkrył Amerykę?",
+		"questionAnswer": "Krzysztof Kolumb (1492)"
 	}
 ]

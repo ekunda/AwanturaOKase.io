@@ -1,27 +1,52 @@
 [
 	{
 		"questionId": 0,
-		"questionText": "Kto wyreżyserował film 'Lista Schindlera'?",
-		"questionAnswer": "Steven Spielberg"
+		"questionText": "Kto gra główną rolę w serii filmów 'John Wick'?",
+		"questionAnswer": "Keanu Reeves"
 	},
 	{
 		"questionId": 1,
-		"questionText": "Jak nazywa się najsłynniejsza seria filmów o przygodach Indiany Jonesa?",
-		"questionAnswer": "Poszukiwacze zaginionej Arki"
+		"questionText": "Jak nazywa się aktor, który gra Iron Mana w MCU?",
+		"questionAnswer": "Robert Downey Jr."
 	},
 	{
 		"questionId": 2,
-		"questionText": "Kto zagrał główną rolę w filmie 'Forrest Gump'?",
-		"questionAnswer": "Tom Hanks"
+		"questionText": "Który film zdobył Oscara za najlepszy film w 2023 roku?",
+		"questionAnswer": "'Everything Everywhere All at Once'"
 	},
 	{
 		"questionId": 3,
-		"questionText": "Jak nazywa się pierwszy film wyprodukowany przez wytwórnię Disneya?",
-		"questionAnswer": "Królewna Śnieżka i siedmiu krasnoludków"
+		"questionText": "Jak nazywa się reżyser serii 'Stranger Things'?",
+		"questionAnswer": "Bracia Duffer"
 	},
 	{
 		"questionId": 4,
-		"questionText": "Kto wyreżyserował 'Labirynt Fauna'?",
-		"questionAnswer": "Guillermo del Toro"
+		"questionText": "Kto gra Spider-Mana w najnowszych filmach?",
+		"questionAnswer": "Tom Holland"
+	},
+	{
+		"questionId": 5,
+		"questionText": "Która aktorka gra Hermione w serii 'Harry Potter'?",
+		"questionAnswer": "Emma Watson"
+	},
+	{
+		"questionId": 6,
+		"questionText": "Jak nazywa się najnowsza część 'Avatar' (2023)?",
+		"questionAnswer": "'Avatar: Istota wody'"
+	},
+	{
+		"questionId": 7,
+		"questionText": "Który film opowiada o życiu Elvisa Presleya?",
+		"questionAnswer": "'Elvis' (2022, reż. Baz Luhrmann)"
+	},
+	{
+		"questionId": 8,
+		"questionText": "Kto reżyserował 'Barbie' (2023)?",
+		"questionAnswer": "Greta Gerwig"
+	},
+	{
+		"questionId": 9,
+		"questionText": "Jak nazywa się czarny charakter w 'Jokerze'?",
+		"questionAnswer": "Arthur Fleck (grany przez Joaquina Phoenixa)"
 	}
 ]

@@ -1,27 +1,52 @@
 [
 	{
 		"questionId": 0,
-		"questionText": "Kto napisał 'Pana Tadeusza'?",
-		"questionAnswer": "Adam Mickiewicz"
+		"questionText": "Kto napisał serię 'Percy Jackson'?",
+		"questionAnswer": "Rick Riordan"
 	},
 	{
 		"questionId": 1,
-		"questionText": "Jak nazywa się główny bohater 'Lalki' Bolesława Prusa?",
-		"questionAnswer": "Stanisław Wokulski"
+		"questionText": "Jak nazywa się główna bohaterka 'Igrzysk śmierci'?",
+		"questionAnswer": "Katniss Everdeen"
 	},
 	{
 		"questionId": 2,
-		"questionText": "Który pisarz stworzył postać Sherlocka Holmesa?",
-		"questionAnswer": "Arthur Conan Doyle"
+		"questionText": "Która książka jest najczęściej czytana przez nastolatków?",
+		"questionAnswer": "'Harry Potter' J.K. Rowling"
 	},
 	{
 		"questionId": 3,
-		"questionText": "Jak nazywa się najsłynniejsze dzieło Williama Szekspira?",
-		"questionAnswer": "Hamlet (lub 'Romeo i Julia')"
+		"questionText": "Kto napisał 'Gwiazd naszych wina'?",
+		"questionAnswer": "John Green"
 	},
 	{
 		"questionId": 4,
-		"questionText": "Kto jest autorem 'Władcy Pierścieni'?",
-		"questionAnswer": "J.R.R. Tolkien"
+		"questionText": "Jak nazywa się autor 'Wiedźmina'?",
+		"questionAnswer": "Andrzej Sapkowski"
+	},
+	{
+		"questionId": 5,
+		"questionText": "Która książka stała się hitem dzięki TikTokowi (BookTok)?",
+		"questionAnswer": "'Normalni ludzie' Sally Rooney"
+	},
+	{
+		"questionId": 6,
+		"questionText": "Jak nazywa się seria książek o wampirach, która stała się hitem wśród nastolatek?",
+		"questionAnswer": "'Zmierzch' Stephenie Meyer"
+	},
+	{
+		"questionId": 7,
+		"questionText": "Kto napisał 'Małego Księcia'?",
+		"questionAnswer": "Antoine de Saint-Exupéry"
+	},
+	{
+		"questionId": 8,
+		"questionText": "Jaka powieść fantasy jest inspirowana mitologią nordycką?",
+		"questionAnswer": "'Magnus Chase' Ricka Riordana"
+	},
+	{
+		"questionId": 9,
+		"questionText": "Która autorka pisze thrillery psychologiczne dla młodzieży?",
+		"questionAnswer": "Karen M. McManus ('Jeden z nas kłamie')"
 	}
 ]

@@ -1,27 +1,52 @@
 [
 	{
 		"questionId": 0,
-		"questionText": "W jakim kraju odbyły się pierwsze nowożytne igrzyska olimpijskie?",
-		"questionAnswer": "W Grecji (Ateny, 1896 rok)"
+		"questionText": "Kto wygrał Mistrzostwa Świata w Piłce Nożnej w 2022 roku?",
+		"questionAnswer": "Argentyna"
 	},
 	{
 		"questionId": 1,
-		"questionText": "Ile zawodników liczy drużyna piłki nożnej na boisku?",
-		"questionAnswer": "11 zawodników"
+		"questionText": "Jak nazywa się najszybszy człowiek na świecie?",
+		"questionAnswer": "Usain Bolt"
 	},
 	{
 		"questionId": 2,
-		"questionText": "Kto jest rekordzistą pod względem liczby zdobytych złotych medali olimpijskich?",
-		"questionAnswer": "Michael Phelps (23 złote medale)"
+		"questionText": "Która drużyna NBA ma najwięcej fanów?",
+		"questionAnswer": "Los Angeles Lakers"
 	},
 	{
 		"questionId": 3,
-		"questionText": "W jakim sporcie używa się kijów i krążka?",
-		"questionAnswer": "W hokeju na lodzie"
+		"questionText": "Kto jest najdroższym piłkarzem w historii?",
+		"questionAnswer": "Neymar (transfer do PSG za 222 mln €)"
 	},
 	{
 		"questionId": 4,
-		"questionText": "Jak nazywa się najważniejsze tenisowe zawody w Wielkiej Brytanii?",
-		"questionAnswer": "Wimbledon"
+		"questionText": "Jak nazywa się polski skoczek narciarski, który wygrał Turniej Czterech Skoczni?",
+		"questionAnswer": "Kamil Stoch"
+	},
+	{
+		"questionId": 5,
+		"questionText": "Która tenisistka ma najwięcej tytułów Wielkiego Szlema?",
+		"questionAnswer": "Serena Williams (23 tytuły)"
+	},
+	{
+		"questionId": 6,
+		"questionText": "W jakim sporcie zawodnicy używają 'hoverboardów'?",
+		"questionAnswer": "Sport elektryczny (np. e-sportowy wyścig deskorolkowy)"
+	},
+	{
+		"questionId": 7,
+		"questionText": "Kto jest najpopularniejszym youtuberem gamingowym w Polsce?",
+		"questionAnswer": "Gimper"
+	},
+	{
+		"questionId": 8,
+		"questionText": "Jak nazywa się najtrudniejszy trik w skateboardingu?",
+		"questionAnswer": "900 (obrót o 900 stopni)"
+	},
+	{
+		"questionId": 9,
+		"questionText": "Które miasto organizuje Letnie Igrzyska Olimpijskie w 2024 roku?",
+		"questionAnswer": "Paryż"
 	}
 ]

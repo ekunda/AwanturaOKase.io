@@ -1,27 +1,52 @@
 [
 	{
 		"questionId": 0,
-		"questionText": "Kto zagrał główną rolę w filmie 'Titanic'?",
-		"questionAnswer": "Leonardo DiCaprio i Kate Winslet"
+		"questionText": "Która platforma streamingowa jest najpopularniejsza wśród nastolatków?",
+		"questionAnswer": "Netflix"
 	},
 	{
 		"questionId": 1,
-		"questionText": "Który zespół muzyczny wykonał piosenkę 'Bohemian Rhapsody'?",
-		"questionAnswer": "Queen"
+		"questionText": "Kto jest najczęściej oglądanym streamerem na Twitchu?",
+		"questionAnswer": "Kai Cenat (lub xQc)"
 	},
 	{
 		"questionId": 2,
-		"questionText": "Jak nazywa się najdłużej emitowany polski serial telewizyjny?",
-		"questionAnswer": "Klan"
+		"questionText": "Jaka gra wygrała nagrodę 'Gra Roku' w 2023?",
+		"questionAnswer": "'Baldur's Gate 3'"
 	},
 	{
 		"questionId": 3,
-		"questionText": "Kto napisał serię książek o Harrym Potterze?",
-		"questionAnswer": "J.K. Rowling"
+		"questionText": "Kto jest najpopularniejszym youtuberem w Polsce?",
+		"questionAnswer": "Gimper"
 	},
 	{
 		"questionId": 4,
-		"questionText": "Jaka jest nazwa pierwszego polskiego filmu nagrodzanego Oscarem?",
-		"questionAnswer": "'Ida' w reżyserii Pawła Pawlikowskiego"
+		"questionText": "Jaka aplikacja do krótkich filmów jest najczęściej używana?",
+		"questionAnswer": "TikTok"
+	},
+	{
+		"questionId": 5,
+		"questionText": "Który serial Netflixowy stał się hitem w 2023 roku?",
+		"questionAnswer": "'Wednesday' (o rodzinie Addamsów)"
+	},
+	{
+		"questionId": 6,
+		"questionText": "Jaka gra mobilna była najczęściej pobierana w 2023?",
+		"questionAnswer": "'Honkai: Star Rail'"
+	},
+	{
+		"questionId": 7,
+		"questionText": "Kto jest najsłynniejszym influencerem modowym na Instagramie?",
+		"questionAnswer": "Chiara Ferragni"
+	},
+	{
+		"questionId": 8,
+		"questionText": "Jaka marka współpracuje z największą liczbą youtuberów?",
+		"questionAnswer": "Red Bull"
+	},
+	{
+		"questionId": 9,
+		"questionText": "Która aplikacja do edycji zdjęć jest najpopularniejsza?",
+		"questionAnswer": "VSCO lub Lightroom"
 	}
 ]
